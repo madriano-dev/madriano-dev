@@ -10,7 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madriano-dev&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madriano-dev&theme=dracula&row=2&hide_border=true&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=madriano-dev&theme=dark&row=2&hide_border=true&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
