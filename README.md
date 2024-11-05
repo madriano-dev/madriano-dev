@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 ## Watch snake eating my github contribuitions
 
-![snake gif](https://github.com/madriano-dev/madriano-dev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/madriano-dev/madriano-dev/blob/output/github-contribution-grid-snake-dark.svg)
