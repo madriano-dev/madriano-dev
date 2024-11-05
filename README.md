@@ -11,7 +11,7 @@ madriano-dev/madriano-dev is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=madriano-dev&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madriano-dev&show_icons=true&theme=transparent)
 
 ## Watch snake eating my github contribuitions
 
