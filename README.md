@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madriano-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Watch snake eating my github contribuitions
+## Hi...
 
 ![snake gif](https://github.com/madriano-dev/madriano-dev/blob/output/github-contribution-grid-snake-dark.svg)
