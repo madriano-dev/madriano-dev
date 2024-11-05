@@ -11,8 +11,6 @@ madriano-dev/madriano-dev is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madriano-dev&hide_border=true&show_icons=true&theme=dracula)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madriano-dev&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## -Welcome to my Github Profile...
