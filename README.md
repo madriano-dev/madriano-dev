@@ -1,4 +1,7 @@
+[![committers.top badge](https://user-badge.committers.top/angola/madriano-dev.svg)](https://user-badge.committers.top/angola/madriano-dev)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+Adriano;I'm+17+years+old;I+am+from+Angola;I+am+a+Passionate+Developer+💻;I+am+a+Backend+Specialist+🚀;I+am+an+Open+Source+Enthusiast+🌍;I+am+a+Problem+Solver+🔧;I+am+Always+Learning+📚;I+am+Ready+to+Collaborate+🤝;I+am+a+Tech+Lover+🤖;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
